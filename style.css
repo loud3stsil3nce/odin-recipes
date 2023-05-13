@@ -1,13 +1,48 @@
-#title {
-    color: red;
+.background {
+    background-color:bisque;
+}
+.title-box {
+background-color:grey;
+border-style:solid;
+border-color:cornflowerblue;
 
 }
 
-.header {
-    color: orange;
+.title-header  {
+color:paleturquoise;
+text-align: center;
 
 }
 
-p {
-    color: yellow;
+
+
+.list {
+    background-color: yellow;
+    color: black;
+    border-color:darkseagreen;
+    border-style:solid;
+    border-width: 10px;
+}
+
+
+.normtext-box {
+    background-color:beige;
+    border-style:solid;
+    border-color:darkgreen;
+}
+.normtext {
+    color:darkgreen;
+    font-size: 24px;
+    text-align: center;
+}
+
+
+.subtitle-box {
+    background-color:coral;
+    border-style:solid;
+    
+}
+.subtitle {
+    color:darkgreen;
+    text-align: center;
 }
